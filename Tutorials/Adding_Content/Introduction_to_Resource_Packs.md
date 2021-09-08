@@ -35,7 +35,7 @@ Minecraft: Bedrock Edition. Существует два типа пакетов,
 
 ![helloworldrp.png](https://docs.microsoft.com/ru-ru/minecraft/creator/documents/media/resourcepack/helloworldrp.png)
 
-### The Manifest File
+### Файл манифеста
 
 Чтобы загрузить пакет ресурсов в Minecraft, необходимо создать файл манифеста. Файл манифеста - это JSON-файл, который
 содержит следующую информацию;
