@@ -20,7 +20,7 @@ Minecraft: Bedrock Edition. Существует два типа пакетов,
 Перед началом данного руководства рекомендуется завершить изучение следующих разделов:
 
 + [Начало разработки дополнений](Getting_Started.md)
-+ Скачать [Vanilla resource pack](https://aka.ms/resourcepacktemplate)
++ Загрузите [Vanilla resource pack](https://aka.ms/resourcepacktemplate)
 
 ## Создание пакета ресурсов
 
