@@ -70,4 +70,37 @@
 
 Узнайте, как работает содержимое со справочной документацией и как GameTest может расширить ваш рабочий процесс.
 
-Coming soon...
+> ### Использование GameTest
+>
+> Узнайте, как новый фреймворк GameTest Frameworks может ускорить время разработки.
+> + [API GameTest](Reference_Documentation/GameTest/GameTest_API/Modules/mojang-gametest/mojang-gametest.md)
+> + [Начало работы с GameTest](Tutorials/GameTest_Framework/Getting_Started_with_GameTest.md)
+> + [Создайте свой первый GameTest](Tutorials/GameTest_Framework/Build_your_first_GameTest.md)
+> + [Используйте инструменты Visual Studio Code для написания скрипта](Tutorials/GameTest_Framework/Use_Visual_Studio_Code_tools_to_write_script.md)
+
+---
+
+> ### Справочная документация
+>
+> Нужна помощь в создании контента? Просмотрите справочную документацию, чтобы увидеть, как все работает в игре.
+>
+> + [JSON документация по Дополнениям](Reference_Documentation/Behavior_Pack/Addons_JSON/Addons_Documentation_Homepage.md)
+> + [JSON документация по Анимациям](Reference_Documentation/Behavior_Pack/Animation_JSON/Animation_Documentation_Homepage.md)
+> + [JSON документация по Блокам](Reference_Documentation/Behavior_Pack/Block_JSON/Block_Documentation_Homepage.md)
+> + [JSON документация по Сущностям](Reference_Documentation/Behavior_Pack/Entity_JSON/Entity_Documentation_Homepage.md)
+> + [JSON документация по Возможностям](Reference_Documentation/Behavior_Pack/Feature_JSON/Feature_Documentation_Homepage.md)
+> + [JSON документация по Предметам](Reference_Documentation/Behavior_Pack/Item_JSON/Item_Documentation_Homepage.md)
+> + [JSON документация по Molang](Reference_Documentation/Molang_Documentation/Molang_Documentation_Homepage.md)
+> + [JSON документация по Рецептам](Reference_Documentation/Behavior_Pack/Recipe_JSON/Recipe_Documentation_Homepage.md)
+> + [JSON документация по Частицам](Reference_Documentation/Behavior_Pack/Particle_JSON/Particle_Documentation_Homepage.md)
+> + [JSON документация по Объёму](Reference_Documentation/Behavior_Pack/Volume_JSON/Volume_Documentation_Homepage.md)
+
+---
+
+> ### Документация по общим схемам
+>
+> Посмотрите, как схемы используются для проверки файлов JSON в Minecraft: Bedrock Edition
+>
+> + [Документация по схемам](Reference_Documentation/Behavior_Pack/Schemas/Schema_Documentation_Homepage.md)
+> + [Обзор биомов](Reference_Documentation/Behavior_Pack/Biomes.md)
+> + [Введение в туманы](Reference_Documentation/Behavior_Pack/Fog_JSON/Introduction_to_Fogs.md)
