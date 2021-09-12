@@ -73,6 +73,7 @@
 > ### Использование GameTest
 >
 > Узнайте, как новый фреймворк GameTest Frameworks может ускорить время разработки.
+>
 > + [API GameTest](Reference_Documentation/GameTest/GameTest_API/Modules/mojang-gametest/mojang-gametest.md)
 > + [Начало работы с GameTest](Tutorials/GameTest_Framework/Getting_Started_with_GameTest.md)
 > + [Создайте свой первый GameTest](Tutorials/GameTest_Framework/Build_your_first_GameTest.md)
