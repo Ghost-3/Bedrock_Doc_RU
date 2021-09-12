@@ -210,6 +210,6 @@
 > 
 > ### СПРАВКА
 > 
-> [Свойства и описания звука](Behavior_Pack/Volume_JSON/Volume_Definitions.md)
+> [Свойства и описание звука](Behavior_Pack/Volume_JSON/Volume_Definitions.md)
 > 
 > [Список компонентов звука](Behavior_Pack/Volume_JSON/Volume_Components/Volume_Components_List.md)
