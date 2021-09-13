@@ -26,7 +26,7 @@
 > 
 > ### ОБЗОР
 > 
-> [Главная страница JSON Документации по Анимациям](Behavior_Pack/Animation_JSON/Animation_Documentation_Homepage.md)
+> [Главная страница JSON Документации по Анимациям](Behavior_Pack/Animation_JSON/README.md)
 > 
 > [Справочник по анимации - начало работы](Behavior_Pack/Animation_JSON/Animation_References/Animation_Getting_Started.md)
 > 
@@ -56,7 +56,7 @@
 > 
 > ### ОБЗОР
 > 
-> [Главная страница JSON Документации по Блокам](Behavior_Pack/Block_JSON/Block_Documentation_Homepage.md)
+> [Главная страница JSON Документации по Блокам](Behavior_Pack/Block_JSON/README.md)
 > 
 > [Определения и свойства блоков](https://docs.microsoft.com/ru-ru/minecraft/creator/reference/content/blockreference/examples/definitions/blockdefinitionproperties)
 > 
@@ -76,7 +76,7 @@
 > 
 > ### ОБЗОР
 > 
-> [Главная страница JSON Документации по Сущностям](Behavior_Pack/Entity_JSON/Entity_Documentation_Homepage.md)
+> [Главная страница JSON Документации по Сущностям](Behavior_Pack/Entity_JSON/README.md)
 >
 > [JSON Введение в сущности](Resource_Pack/Client_Entity_JSON.md)
 > 
@@ -110,7 +110,7 @@
 > 
 > ### ОБЗОР
 > 
-> [Главная страница JSON Документации по Генерации](Behavior_Pack/Feature_JSON/Feature_Documentation_Homepage.md)
+> [Главная страница JSON Документации по Генерации](Behavior_Pack/Feature_JSON/README.md)
 >
 > [Введение в Генерацию](Behavior_Pack/Feature_JSON/Introduction_to_Features.md)
 > 
@@ -168,7 +168,7 @@
 > 
 > ### СПРАВКА
 > 
-> [Домашняя страница документации по схемам](Behavior_Pack/Schemas/Schema_Documentation_Homepage.md)
+> [Домашняя страница документации по схемам](Behavior_Pack/Schemas/README.md)
 > 
 > [Список схем](Behavior_Pack/Schemas/Schema_List/Schemas_List.md)
 
