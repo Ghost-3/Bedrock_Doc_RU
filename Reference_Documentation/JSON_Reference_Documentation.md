@@ -124,8 +124,6 @@
 
 > ## Предметы
 > 
-> ---
-> 
 > ### СПРАВКА
 > 
 > [Список Компонентов Предметов](Behavior_Pack/Item_JSON/Item_Components/Item_Component_List.md)
