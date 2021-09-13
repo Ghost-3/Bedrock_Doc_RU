@@ -116,21 +116,21 @@
 
 ---
 
-> ## Возможности
+> ## Генерация
 > 
 > ---
 > 
 > ### ОБЗОР
 > 
-> [Главная страница JSON Документации по Возможностям](Behavior_Pack/Feature_JSON/Feature_Documentation_Homepage.md)
+> [Главная страница JSON Документации по Генерации](Behavior_Pack/Feature_JSON/Feature_Documentation_Homepage.md)
 >
-> [Введение в Возможности](Behavior_Pack/Feature_JSON/Introduction_to_Features.md)
+> [Введение в Генерацию](Behavior_Pack/Feature_JSON/Introduction_to_Features.md)
 > 
 > ---
 > 
 > ### СПРАВКА
 > 
-> [Список возможностей](Behavior_Pack/Feature_JSON/Feature_List/Feature_List.md)
+> [Список функций](Behavior_Pack/Feature_JSON/Feature_List/Feature_List.md)
 
 ---
 
@@ -204,12 +204,12 @@
 
 ---
 
-> ## Звук
+> ## Звуки
 > 
 > ---
 > 
 > ### СПРАВКА
 > 
-> [Свойства и описание звука](Behavior_Pack/Volume_JSON/Volume_Definitions.md)
+> [Свойства и описание звуков](Behavior_Pack/Volume_JSON/Volume_Definitions.md)
 > 
-> [Список компонентов звука](Behavior_Pack/Volume_JSON/Volume_Components/Volume_Components_List.md)
+> [Список компонентов звуков](Behavior_Pack/Volume_JSON/Volume_Components/Volume_Components_List.md)
