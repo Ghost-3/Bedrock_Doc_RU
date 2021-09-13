@@ -4,8 +4,6 @@
 
 > ## Дополнения
 > 
-> ---
-> 
 > ### ОБЗОР
 > 
 > [Главная страница JSON Документации по Дополнениям](Behavior_Pack/Addons_JSON/Addons_Documentation_Homepage.md)
@@ -25,8 +23,6 @@
 ---
 
 > ## Анимации
-> 
-> ---
 > 
 > ### ОБЗОР
 > 
@@ -48,8 +44,6 @@
 
 > ## Биомы и туманы
 > 
-> ---
-> 
 > ### ОБЗОР
 > 
 > [Обзор биомов](Behavior_Pack/Biomes.md)
@@ -59,8 +53,6 @@
 ---
 
 > ## Блоки
-> 
-> ---
 > 
 > ### ОБЗОР
 > 
@@ -81,8 +73,6 @@
 ---
 
 > ## Сущности
-> 
-> ---
 > 
 > ### ОБЗОР
 > 
@@ -118,8 +108,6 @@
 
 > ## Генерация
 > 
-> ---
-> 
 > ### ОБЗОР
 > 
 > [Главная страница JSON Документации по Генерации](Behavior_Pack/Feature_JSON/Feature_Documentation_Homepage.md)
@@ -146,8 +134,6 @@
 
 > ## Molang
 > 
-> ---
-> 
 > ### РУКОВОДСТВО
 > 
 > [Введение в Molang](Molang_Documentation/Molang_Concepts/Introduction_to_Molang.md)
@@ -166,8 +152,6 @@
 
 > ## Рецепты
 > 
-> ---
-> 
 > ### СПРАВКА
 > 
 > [Список определений рецептов](Behavior_Pack/Recipe_JSON/Recipe_Definitions/Recipe_Definition_List.md)
@@ -184,8 +168,6 @@
 
 > ## Схемы
 > 
-> ---
-> 
 > ### СПРАВКА
 > 
 > [Домашняя страница документации по схемам](Behavior_Pack/Schemas/Schema_Documentation_Homepage.md)
@@ -196,8 +178,6 @@
 
 > ## Наборы текстур
 > 
-> ---
-> 
 > ### ОБЗОР
 > 
 > [Введение в Наборы Текстур](Behavior_Pack/Texture_Set_JSON/Introduction_to_Texture_Sets.md)
@@ -205,8 +185,6 @@
 ---
 
 > ## Звуки
-> 
-> ---
 > 
 > ### СПРАВКА
 > 
