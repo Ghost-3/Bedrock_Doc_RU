@@ -6,7 +6,7 @@
 > 
 > ### ОБЗОР
 > 
-> [Главная страница JSON Документации по Дополнениям](Behavior_Pack/Addons_JSON/Addons_Documentation_Homepage.md)
+> [Главная страница JSON Документации по Дополнениям](Behavior_Pack/Addons_JSON/README.md)
 > 
 > ---
 > 
