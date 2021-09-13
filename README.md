@@ -14,7 +14,7 @@
 
 ---
 
-> ### [Справочная документация по JSON](Reference_Documentation/JSON_Reference_Documentation.md)
+> ### [Справочная документация по JSON](Reference_Documentation/README.md)
 >
 > Узнайте о различных функциях и компонентах, используемых в Minecraft
 
@@ -85,16 +85,16 @@
 >
 > Нужна помощь в создании контента? Просмотрите справочную документацию, чтобы увидеть, как все работает в игре.
 >
-> + [JSON документация по Дополнениям](Reference_Documentation/Behavior_Pack/Addons_JSON/Addons_Documentation_Homepage.md)
-> + [JSON документация по Анимациям](Reference_Documentation/Behavior_Pack/Animation_JSON/Animation_Documentation_Homepage.md)
-> + [JSON документация по Блокам](Reference_Documentation/Behavior_Pack/Block_JSON/Block_Documentation_Homepage.md)
-> + [JSON документация по Сущностям](Reference_Documentation/Behavior_Pack/Entity_JSON/Entity_Documentation_Homepage.md)
-> + [JSON документация по Возможностям](Reference_Documentation/Behavior_Pack/Feature_JSON/Feature_Documentation_Homepage.md)
-> + [JSON документация по Предметам](Reference_Documentation/Behavior_Pack/Item_JSON/Item_Documentation_Homepage.md)
-> + [JSON документация по Molang](Reference_Documentation/Molang_Documentation/Molang_Documentation_Homepage.md)
-> + [JSON документация по Рецептам](Reference_Documentation/Behavior_Pack/Recipe_JSON/Recipe_Documentation_Homepage.md)
-> + [JSON документация по Частицам](Reference_Documentation/Behavior_Pack/Particle_JSON/Particle_Documentation_Homepage.md)
-> + [JSON документация по Объёму](Reference_Documentation/Behavior_Pack/Volume_JSON/Volume_Documentation_Homepage.md)
+> + [JSON документация по Дополнениям](Reference_Documentation/Behavior_Pack/Addons_JSON/README.md)
+> + [JSON документация по Анимациям](Reference_Documentation/Behavior_Pack/Animation_JSON/README.md)
+> + [JSON документация по Блокам](Reference_Documentation/Behavior_Pack/Block_JSON/README.md)
+> + [JSON документация по Сущностям](Reference_Documentation/Behavior_Pack/Entity_JSON/README.md)
+> + [JSON документация по Возможностям](Reference_Documentation/Behavior_Pack/Feature_JSON/README.md)
+> + [JSON документация по Предметам](Reference_Documentation/Behavior_Pack/Item_JSON/README.md)
+> + [JSON документация по Molang](Reference_Documentation/Molang_Documentation/README.md)
+> + [JSON документация по Рецептам](Reference_Documentation/Behavior_Pack/Recipe_JSON/README.md)
+> + [JSON документация по Частицам](Reference_Documentation/Behavior_Pack/Particle_JSON/README.md)
+> + [JSON документация по Объёму](Reference_Documentation/Behavior_Pack/Volume_JSON/README.md)
 
 ---
 
@@ -102,6 +102,6 @@
 >
 > Посмотрите, как схемы используются для проверки файлов JSON в Minecraft: Bedrock Edition
 >
-> + [Документация по схемам](Reference_Documentation/Behavior_Pack/Schemas/Schema_Documentation_Homepage.md)
+> + [Документация по схемам](Reference_Documentation/Behavior_Pack/Schemas/README.md)
 > + [Обзор биомов](Reference_Documentation/Behavior_Pack/Biomes.md)
 > + [Введение в туманы](Reference_Documentation/Behavior_Pack/Fog_JSON/Introduction_to_Fogs.md)
