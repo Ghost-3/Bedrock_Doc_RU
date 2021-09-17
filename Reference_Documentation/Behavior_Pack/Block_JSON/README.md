@@ -8,7 +8,7 @@
 > 
 > [Добавление пользовательского блока](../../../Tutorials/Adding_Content/Adding_a_Custom_Block.md)
 > 
-> [Определения и свойства блоков](https://docs.microsoft.com/ru-ru/minecraft/creator/reference/content/blockreference/examples/definitions/blockdefinitionproperties)
+> [Определения и свойства блоков](../../../Others/Block_Definition_Properties.md)
 
 ---
 

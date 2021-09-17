@@ -174,7 +174,7 @@ GameTests затем использует код JavaScript для опреде�
 
 Для регистрации скриптов GameTest вам понадобится класс RegistrationBuilder. Более подробную информацию о классе
 Registration Builder можно найти на
-странице [Registration Builder](https://docs.microsoft.com/ru-ru/minecraft/creator/scriptapi/mojang-gametest/registrationbuilder)
+странице [Registration Builder](../../Reference_Documentation/GameTest/GameTest_API/Modules/mojang-gametest/RegistrationBuilder.md)
 
 Пример строки JavaScript, использующей RegistrationBuilder, выглядит следующим образом:
 

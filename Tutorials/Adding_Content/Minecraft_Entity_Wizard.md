@@ -187,7 +187,7 @@ Minecraft.
 Вы можете научиться моделировать и анимировать в этом обучающем
 плейлисте: [ArtsByKev Blockbench Tutorials](https://www.youtube.com/watch?v=U9FLteWmFzg&list=PLvULVkjBtg2SezfUA8kHcPUGpxIS26uJR)
 
-Более подробную информацию о Blockbench можно найти на [Blockbench Wiki](https://www.blockbench.net/wiki/).
+Более подробную информацию о Blockbench можно найти на [Blockbench Wiki](https://www.blockbench.net/wiki).
 
 ### Поведение
 
@@ -204,7 +204,7 @@ Minecraft: Bedrock Edition. Вы можете узнать,
 Чтобы просмотреть все доступные модели поведения, свойства и цели AI Goals, которые может использовать сущность, вы
 можете перейти к справочной документации Entity JSON Reference Documentation.
 
-[JSON документация по Сущностям](../../Reference_Documentation/Behavior_Pack/Entity_JSON/Entity_Documentation_Homepage.md)
+[JSON документация по Сущностям](../../Reference_Documentation/Behavior_Pack/Entity_JSON/README.md)
 
 ### Что дальше?
 

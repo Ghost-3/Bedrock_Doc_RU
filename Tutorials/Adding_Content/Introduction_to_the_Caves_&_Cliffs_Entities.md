@@ -6,7 +6,7 @@
 
 ## Аксолотль
 
-[Аксолотль](https://docs.microsoft.com/ru-ru/minecraft/creator/reference/source/vanillabehaviorpack_snippets/entities/axolotl)
+[Аксолотль](../../Others/axolotl.md)
 
 - очень полезное существо. Он нападает на других морских существ, поэтому вы можете использовать его в качестве боевого
   товарища! Он также может дать боевую регенерацию любому существу, которое убьет его текущую цель.
@@ -20,15 +20,15 @@
 
 Светящийся спрут
 
-[Светящийся спрут](https://docs.microsoft.com/ru-ru/minecraft/creator/reference/source/vanillabehaviorpack_snippets/entities/glow_squid)
+[Светящийся спрут](../../Others/glow_squid)
 по своему поведению
-идентичен [спруту](https://docs.microsoft.com/ru-ru/minecraft/creator/reference/source/vanillabehaviorpack_snippets/entities/squid)
+идентичен [спруту](../../Others/squid)
 , но, как следует из его названия, этот новый моб имеет светящуюся текстуру. Светящийся кальмар также роняет светящиеся
 чернила, которые можно использовать для создания светящихся символов!
 
 ## Коза
 
-[Коза](https://docs.microsoft.com/ru-ru/minecraft/creator/reference/source/vanillabehaviorpack_snippets/entities/goat) -
+[Коза](../../Others/goat) -
 это озорной моб, которого можно встретить в горных биомах. Во время своего времяпрепровождения он будет искать случайные
 блоки для прыжка в пределах заданной высоты, ширины и расстояния и прыгать на этот блок. Вы можете настроить следующие
 параметры для этого поведения:

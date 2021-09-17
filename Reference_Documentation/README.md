@@ -58,7 +58,7 @@
 > 
 > [Главная страница Документации по Блокам](Behavior_Pack/Block_JSON/README.md)
 > 
-> [Определения и свойства блоков](https://docs.microsoft.com/ru-ru/minecraft/creator/reference/content/blockreference/examples/definitions/blockdefinitionproperties)
+> [Определения и свойства блоков](../Others/Block_Definition_Properties.md)
 > 
 > ---
 > 
@@ -100,7 +100,7 @@
 > 
 > [Список триггеров](Behavior_Pack/Entity_JSON/Triggers/Trigger_List.md)
 > 
-> [Список параметров сущности](https://docs.microsoft.com/ru-ru/minecraft/creator/reference/content/entityreference/examples/entitylist)
+> [Список параметров сущности](../Others/Entity_List.md)
 > 
 > [Список JSON ID сущности](Behavior_Pack/Entity_JSON/ID_Lists.md)
 
