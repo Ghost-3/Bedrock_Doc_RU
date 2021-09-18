@@ -18,9 +18,9 @@
 > 
 > [Список целей ИИ](AI_Goals/AI_Goals_List.md)
 > 
-> [NEW! minecraft:behavior.jump_to_block](AI_Goals/behavior.jump_to_block.md)
+> [minecraft:behavior.jump_to_block](AI_Goals/behavior.jump_to_block.md)
 > 
-> [NEW! minecraft:behavior.play_dead](AI_Goals/behavior.play_dead.md)
+> [minecraft:behavior.play_dead](AI_Goals/behavior.play_dead.md)
 > 
 > [minecraft:behavior.nearest_attackable_target](AI_Goals/behavior.nearest_attackable_target.md)
 
@@ -32,7 +32,7 @@
 > 
 > [Список компонентов](Components/Components_List.md)
 > 
-> [NEW! minecraft:combat_regeneration](Components/combat_regeneration.md)
+> [minecraft:combat_regeneration](Components/combat_regeneration.md)
 > 
 > [minecraft:addrider](Components/addrider.md)
 > 
