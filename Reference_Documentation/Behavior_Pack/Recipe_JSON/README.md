@@ -8,7 +8,7 @@
 > 
 > [Список содержимого рецептов крафта](Recipe_Definitions/Recipe_Definition_List.md)
 > 
-> [Рецепты для печки](Recipe_Definitions/Furnace_Recipe.md)
+> [Рецепты для печи](Recipe_Definitions/Furnace_Recipe.md)
 > 
 > [Форменные рецепты](Recipe_Definitions/Shaped_Recipe.md)
 > 
@@ -16,4 +16,4 @@
 > 
 > [Рецепты зельеварения](Recipe_Definitions/Potion_Brewing_Recipe.md)
 
-[comment]: <> (Спасибо, Foxuk)
+[comment]: <> (Спасибо Foxuk)
