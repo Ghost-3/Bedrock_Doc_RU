@@ -152,7 +152,7 @@ Minecraft.
 Иконка пакета является необязательной. Вы можете загрузить изображение в качестве иконки для представления вашего пакета
 в меню пака. Изображение должно быть PNG-файлом, рекомендуемое разрешение - 64 на 64 пикселя.
 
-![MinecraftEnityWizard_next_steps.png](https://docs.microsoft.com/ru-ru/minecraft/creator/documents/Media/MinecraftEntityWizard/MinecraftEnityWizard_next_steps.png)
+![MinecraftEntityWizard_next_steps.png](https://docs.microsoft.com/ru-ru/minecraft/creator/documents/Media/MinecraftEntityWizard/MinecraftEnityWizard_next_steps.png)
 
 ## Установка пакета
 

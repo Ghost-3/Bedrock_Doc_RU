@@ -1,0 +1,110 @@
+# Документация сущности - distance_to_nearest_player
+
+`distance_to_nearest_player` сравнивает расстояние до ближайшего Игрока с плавающим значением.
+
+## Параметры
+
+| Имя   | Значение по умолчанию | Тип     | Описание                                   |
+|-------|-----------------------|---------|--------------------------------------------|
+| value |                       | Decimal | (Обязательно) Значение с плавающей точкой. |
+
+> Примечание
+> 
+> `distance_to_nearest_player` может также использовать параметры `subject` и [operator](../../../../Others/Operators.md), но они необязательны.
+
+### subject
+
+| Параметры | Описание                                               |
+|-----------|--------------------------------------------------------|
+| block     | Блок, участвующий во взаимодействии.                   |
+| damager   | Повреждающий агент, участвующий во взаимодействии.     |
+| other     | Другой участник взаимодействия, не вызывающий абонент. |
+| parent    | Текущий родитель вызывающего.                          |
+| player    | Игрок, участвующий во взаимодействии.                  |
+| self      | Сущность или объект, вызывающий тест.                  |
+| target    | Текущая цель вызывающего.                              |
+
+### operator
+
+| Параметры | Описание                             |
+|-----------|--------------------------------------|
+| !=        | Проверка на неравенство.             |
+| <         | Тест на меньше значения.             |
+| <=        | Тест на меньше или равное значение.  |
+| <>        | Тест на неравенство.                 |
+| =         | Тест на равенство.                   |
+| ==        | Тест на равенство.                   |
+| >         | Тест на большее значение.            |
+| >=        | Тест на большее или равное значение. |
+| equals    | Тест на равенство.                   |
+| not       | Тест на неравенство.                 |
+
+## Примеры
+
+### Полный
+
+``` json
+{ "test": "distance_to_nearest_player", "subject": "self", "operator": "equals", "value": "0.00" }
+```
+
+### Короткий (с использованием значений по умолчанию)
+
+``` json
+{ "test": "distance_to_nearest_player", "value": "0.00" }
+```
+
+## Примеры ванильных сущностей
+
+### zoglin
+
+``` json
+"minecraft:despawn": {
+  "filters": {
+    "any_of": [
+      {
+        "all_of": [
+          {
+            "test": "is_persistent",
+            "value": false
+          },
+          {
+            "test": "distance_to_nearest_player",
+            "operator": ">",
+            "value": 54
+          }
+        ]
+      },
+      {
+        "all_of": [
+          {
+            "test": "is_persistent",
+            "value": false
+          },
+          {
+            "test": "inactivity_timer",
+            "subject": "self",
+            "value": 30
+          },
+          {
+            "test": "random_chance",
+            "value": 800
+          },
+          {
+            "test": "distance_to_nearest_player",
+            "operator": ">",
+            "value": 32
+          }
+        ]
+      }
+    ]
+  }
+},
+```
+
+## Ванильные сущности, использующие `distance_to_nearest_player`.
+
++ [fox](../../../../Others/Entities/fox.md)
++ [piglin_brute](../../../../Others/Entities/piglin_brute.md)
++ [pufferfish](../../../../Others/Entities/pufferfish.md)
++ [wandering_trader](../../../../Others/Entities/wandering_trader.md)
++ [zoglin](../../../../Others/Entities/zoglin.md)
