@@ -100,7 +100,7 @@
 > 
 > [Список триггеров](Behavior_Pack/Entity_JSON/Triggers/Trigger_List.md)
 > 
-> [Список параметров сущности](../Others/Entity_List.md)
+> [Список параметров сущности](../Others/Entities/Entity_List.md)
 > 
 > [Список JSON ID сущности](Behavior_Pack/Entity_JSON/ID_Lists.md)
 
