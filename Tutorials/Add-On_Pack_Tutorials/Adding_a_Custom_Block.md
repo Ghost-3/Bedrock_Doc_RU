@@ -26,7 +26,7 @@
 >
 > Holiday Creator Features содержит экспериментальные игровые функции. Как и в случае со всеми экспериментами, вы можете увидеть добавления, удаления и изменения функциональности в версиях Minecraft без существенного предварительного предупреждения.
 >
-> Чтобы узнать больше об экспериментальных возможностях, пожалуйста, посетите [Экспериментальные возможности в Minecraft: Bedrock Edition](../../Others/Experimental_Features_in_Minecraft_Bedrock_Edition.md)
+> Чтобы узнать больше об экспериментальных возможностях, пожалуйста, посетите [Экспериментальные возможности в Minecraft: Bedrock Edition](../../Articles/Useful_Knowledge_for_Creators/Experimental_Features_in_Minecraft_Bedrock_Edition.md)
 
 ## Настройка JSON-файла ресурсов
 
