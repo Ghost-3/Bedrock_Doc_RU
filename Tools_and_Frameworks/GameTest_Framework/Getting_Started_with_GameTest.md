@@ -23,7 +23,7 @@ GameTest Framework - это новый набор инструментов, до
 Чтобы начать, вам нужно понять, как работает Behavior Pack в Minecraft. Чтобы узнать больше о создании Behavior Pack,
 смотрите эту тему:
 
-+ [Введение в наборы параметров](../Adding_Content/Introduction_to_Behavior_Packs.md)
++ [Введение в наборы параметров](../../Tutorials/Add-On_Pack_Tutorials/Introduction_to_Behavior_Packs.md)
 
 ## Что такое GameTest?
 

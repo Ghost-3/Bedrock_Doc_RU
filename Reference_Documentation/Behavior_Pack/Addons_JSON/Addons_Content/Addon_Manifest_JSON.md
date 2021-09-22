@@ -4,7 +4,7 @@
 
 > Примечание
 > 
-> Чтобы узнать больше о том, как начать писать файлы manifest.json в Minecraft: Bedrock Edition, вы можете просмотреть руководство [Введение в наборы ресурсов](../../../../Tutorials/Adding_Content/Introduction_to_Resource_Packs.md).
+> Чтобы узнать больше о том, как начать писать файлы manifest.json в Minecraft: Bedrock Edition, вы можете просмотреть руководство [Введение в наборы ресурсов](../../../../Tutorials/Add-On_Pack_Tutorials/Introduction_to_Resource_Packs.md).
 
 ## Свойства
 

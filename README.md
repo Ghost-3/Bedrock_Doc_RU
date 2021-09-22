@@ -8,7 +8,7 @@
 Независимо от того, создаете ли вы первое дополнение или сотое, здесь есть материалы для всех типов создателей, которые
 помогут вам на вашем пути!
 
-> ### [Начало разработки дополнений](Tutorials/Adding_Content/Getting_Started.md)
+> ### [Начало разработки дополнений](Tutorials/Add-On_Pack_Tutorials/Getting_Started.md)
 >
 > Работать с дополнениями в Minecraft:Bedrock Edition очень просто! Узнайте, как приступить к работе
 
@@ -20,7 +20,7 @@
 
 ---
 
-> ### [Начало работы с Minecraft Entity Wizard](Tutorials/Adding_Content/Minecraft_Entity_Wizard.md)
+> ### [Начало работы с Minecraft Entity Wizard](Tools_and_Frameworks/Creator_Tools/Blockbench/Minecraft_Entity_Wizard.md)
 >
 > Быстрое проектирование, создание и развертывание совершенно новой сущности с помощью нового инструмента Minecraft Entity Wizard Tool
 
@@ -33,9 +33,9 @@
 >
 > Узнайте, как дополнения используются для добавления пользовательского контента в Minecraft
 >
-> + [Введение в наборы ресурсов](Tutorials/Adding_Content/Introduction_to_Resource_Packs.md)
-> + [Введение в наборы параметров](Tutorials/Adding_Content/Introduction_to_Behavior_Packs.md)
-> + [Как добавить пользовательский блок](Tutorials/Adding_Content/Adding_a_Custom_Block.md)
+> + [Введение в наборы ресурсов](Tutorials/Add-On_Pack_Tutorials/Introduction_to_Resource_Packs.md)
+> + [Введение в наборы параметров](Tutorials/Add-On_Pack_Tutorials/Introduction_to_Behavior_Packs.md)
+> + [Как добавить пользовательский блок](Tutorials/Add-On_Pack_Tutorials/Adding_a_Custom_Block.md)
 
 ---
 
@@ -54,8 +54,8 @@
 >
 > Населите свой мир интерактивными персонажами для создания уникального повествования.
 >
-> + [Создание пользовательского NPC](Tutorials/Adding_Content/Create_a_Custom_NPC.md)
-> + [Диалоговая команда NPC](Tutorials/Adding_Content/NPC_Dialogue_Command.md)
+> + [Создание пользовательского NPC](Tutorials/Adding_NPCs/Create_a_Custom_NPC.md)
+> + [Диалоговая команда NPC](Tutorials/Adding_NPCs/NPC_Dialogue_Command.md)
 
 ---
 
@@ -63,8 +63,8 @@
 >
 > Узнайте, как таблицы позволяют создателям добавлять предметы в мир самыми разными способами.
 >
-> + [Введение в таблицы лута](Tutorials/Adding_Content/Introduction_to_Loot_Tables.md)
-> + [Функции таблиц лута и торговли](Tutorials/Adding_Content/Loot_and_Trade_Table_Functions.md)
+> + [Введение в таблицы лута](Tutorials/Loot_and_Trading_Tables/Introduction_to_Loot_Tables.md)
+> + [Функции таблиц лута и торговли](Tutorials/Loot_and_Trading_Tables/Loot_and_Trade_Table_Functions.md)
 
 ## Справочники
 
@@ -75,9 +75,9 @@
 > Узнайте, как новый фреймворк GameTest Frameworks может ускорить время разработки.
 >
 > + [API GameTest](Reference_Documentation/GameTest/GameTest_API/Modules/mojang-gametest/mojang-gametest.md)
-> + [Начало работы с GameTest](Tutorials/GameTest_Framework/Getting_Started_with_GameTest.md)
-> + [Создайте свой первый GameTest](Tutorials/GameTest_Framework/Build_your_first_GameTest.md)
-> + [Используйте инструменты Visual Studio Code для написания скрипта](Tutorials/GameTest_Framework/Use_Visual_Studio_Code_tools_to_write_script.md)
+> + [Начало работы с GameTest](Tools_and_Frameworks/GameTest_Framework/Getting_Started_with_GameTest.md)
+> + [Создайте свой первый GameTest](Tools_and_Frameworks/GameTest_Framework/Build_your_first_GameTest.md)
+> + [Используйте инструменты Visual Studio Code для написания скрипта](Tools_and_Frameworks/GameTest_Framework/Use_Visual_Studio_Code_tools_to_write_script.md)
 
 ---
 

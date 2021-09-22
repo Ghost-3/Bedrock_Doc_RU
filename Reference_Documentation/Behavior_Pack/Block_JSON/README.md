@@ -6,7 +6,7 @@
 > 
 > ### НАЧАЛО РАБОТЫ
 > 
-> [Добавление пользовательского блока](../../../Tutorials/Adding_Content/Adding_a_Custom_Block.md)
+> [Добавление пользовательского блока](../../../Tutorials/Add-On_Pack_Tutorials/Adding_a_Custom_Block.md)
 > 
 > [Определения и свойства блоков](../../../Others/Block_Definition_Properties.md)
 
