@@ -94,7 +94,7 @@
 > + [JSON документация по Molang](Reference_Documentation/Molang_Documentation/README.md)
 > + [JSON документация по Рецептам](Reference_Documentation/Behavior_Pack/Recipe_JSON/README.md)
 > + [JSON документация по Частицам](Reference_Documentation/Behavior_Pack/Particle_JSON/README.md)
-> + [JSON документация по Объёму](Reference_Documentation/Behavior_Pack/Volume_JSON/README.md)
+> + [JSON документация по Звуку](Reference_Documentation/Behavior_Pack/Volume_JSON/README.md)
 
 ---
 
