@@ -55,13 +55,13 @@
 
 ## Примеры сущностей
 
-### zombie pigman
+### Зомби-Человек
 
 ``` json
 "events": {
   "minecraft:entity_transformed": {
     "sequence": [
-      // Transform baby pig to baby zombie pigman
+      // Превращает маленькую Свинью в маленького Зомби-Человека
       {
         "filters": {
           "test": "has_component",
@@ -75,7 +75,7 @@
           ]
         }
       },
-      // Transform adult pig to adult zombie pigman
+      // Превращает взрослую Свинью во взрослого Зомби-Человека
       {
         "filters": {
           "test": "has_component",
@@ -94,28 +94,28 @@
 
 ## Ванильные сущности, использующие `has_ability`
 
-+ [bee](../../../../Others/Entities/bee.md)
-+ [cat](../../../../Others/Entities/cat.md)
-+ [creeper](../../../../Others/Entities/creeper.md)
-+ [evocation_illager](../../../../Others/Entities/evocation_illager.md)
-+ [hoglin](../../../../Others/Entities/hoglin.md)
-+ [husk](../../../../Others/Entities/husk.md)
-+ [llama](../../../../Others/Entities/llama.md)
-+ [mooshroom](../../../../Others/Entities/mooshroom.md)
-+ [panda](../../../../Others/Entities/panda.md)
-+ [piglin](../../../../Others/Entities/piglin.md)
-+ [pillager](../../../../Others/Entities/pillager.md)
-+ [rabbit](../../../../Others/Entities/rabbit.md)
-+ [ravager](../../../../Others/Entities/ravager.md)
-+ [sheep](../../../../Others/Entities/sheep.md)
-+ [snow_golem](../../../../Others/Entities/snow_golem.md)
-+ [tnt_minecart](../../../../Others/Entities/tnt_minecart.md)
-+ [vex](../../../../Others/Entities/vex.md)
-+ [villager_V2](../../../../Others/Entities/villager_v2.md)
-+ [villager](../../../../Others/Entities/villager.md)
-+ [vindicator](../../../../Others/Entities/vindicator.md)
-+ [wandering_trader](../../../../Others/Entities/wandering_trader.md)
-+ [zoglin](../../../../Others/Entities/zoglin.md)
-+ [zombie_villager_v2](../../../../Others/Entities/zombie_villager_v2.md)
-+ [zombie_villager](../../../../Others/Entities/zombie_villager.md)
-+ [zombie](../../../../Others/Entities/zombie.md)
++ [Пчела](../../../../Others/Entities/bee.md)
++ [Кошка](../../../../Others/Entities/cat.md)
++ [Крипер](../../../../Others/Entities/creeper.md)
++ [Вызыватель](../../../../Others/Entities/evocation_illager.md)
++ [Хоглин](../../../../Others/Entities/hoglin.md)
++ [Кадавр](../../../../Others/Entities/husk.md)
++ [Лама](../../../../Others/Entities/llama.md)
++ [Грибная корова](../../../../Others/Entities/mooshroom.md)
++ [Панда](../../../../Others/Entities/panda.md)
++ [Пиглин](../../../../Others/Entities/piglin.md)
++ [Разбойник](../../../../Others/Entities/pillager.md)
++ [Кролик](../../../../Others/Entities/rabbit.md)
++ [Разоритель](../../../../Others/Entities/ravager.md)
++ [Овца](../../../../Others/Entities/sheep.md)
++ [Снежный Голем](../../../../Others/Entities/snow_golem.md)
++ [Вагонетка с динамитом](../../../../Others/Entities/tnt_minecart.md)
++ [Досаждатель](../../../../Others/Entities/vex.md)
++ [Житель V2](../../../../Others/Entities/villager_v2.md)
++ [Житель](../../../../Others/Entities/villager.md)
++ [Поборник](../../../../Others/Entities/vindicator.md)
++ [Странствующий Торговец](../../../../Others/Entities/wandering_trader.md)
++ [Зогин](../../../../Others/Entities/zoglin.md)
++ [Зомби Житель v2](../../../../Others/Entities/zombie_villager_v2.md)
++ [Зомби Житель](../../../../Others/Entities/zombie_villager.md)
++ [Зомби](../../../../Others/Entities/zombie.md)

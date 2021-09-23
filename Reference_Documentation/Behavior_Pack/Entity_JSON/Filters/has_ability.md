@@ -66,7 +66,7 @@
 
 ## Примеры сущностей
 
-### Shulker
+### Шалкер
 
 ``` json
 "on_interact": {
@@ -88,5 +88,5 @@
 
 ## Ванильные сущности, использующие `has_ability`
 
-+ [pufferfish](../../../../Others/Entities/pufferfish.md)
-+ [shulker](../../../../Others/Entities/shulker.md)
++ [Иглобрюх](../../../../Others/Entities/pufferfish.md)
++ [Шалкер](../../../../Others/Entities/shulker.md)

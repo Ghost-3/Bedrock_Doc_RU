@@ -55,7 +55,7 @@
 
 ## Примеры ванильных сущностей
 
-### zoglin
+### Зоглин
 
 ``` json
 "minecraft:despawn": {
@@ -103,8 +103,8 @@
 
 ## Ванильные сущности, использующие `distance_to_nearest_player`.
 
-+ [fox](../../../../Others/Entities/fox.md)
-+ [piglin_brute](../../../../Others/Entities/piglin_brute.md)
-+ [pufferfish](../../../../Others/Entities/pufferfish.md)
-+ [wandering_trader](../../../../Others/Entities/wandering_trader.md)
-+ [zoglin](../../../../Others/Entities/zoglin.md)
++ [Лиса](../../../../Others/Entities/fox.md)
++ [Брутальный пиглин](../../../../Others/Entities/piglin_brute.md)
++ [Иглобрюх](../../../../Others/Entities/pufferfish.md)
++ [Странствующий торговец](../../../../Others/Entities/wandering_trader.md)
++ [Зоглин](../../../../Others/Entities/zoglin.md)
